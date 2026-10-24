@@ -1,0 +1,17 @@
+﻿.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.DS_Store
+
+# Local databases
+*.duckdb
+*.db
+
+# Generated exports and temporary files
+data/powerbi/
+data/clean/

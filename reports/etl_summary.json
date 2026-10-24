@@ -1,0 +1,233 @@
+[
+  {
+    "sheet": "README",
+    "source_rows": 108,
+    "columns": 6,
+    "exported_rows": 108,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "data_dictionary",
+    "source_rows": 371,
+    "columns": 8,
+    "exported_rows": 371,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "metric_dictionary",
+    "source_rows": 28,
+    "columns": 12,
+    "exported_rows": 28,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "data_contracts",
+    "source_rows": 42,
+    "columns": 6,
+    "exported_rows": 42,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "dq_checks_catalog",
+    "source_rows": 14,
+    "columns": 9,
+    "exported_rows": 14,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "dim_date",
+    "source_rows": 2557,
+    "columns": 18,
+    "exported_rows": 2557,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "dim_employee",
+    "source_rows": 1606,
+    "columns": 21,
+    "exported_rows": 1606,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "dim_department",
+    "source_rows": 11,
+    "columns": 5,
+    "exported_rows": 11,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "dim_role",
+    "source_rows": 58,
+    "columns": 10,
+    "exported_rows": 58,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "dim_location",
+    "source_rows": 9,
+    "columns": 4,
+    "exported_rows": 9,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "dim_leave_type",
+    "source_rows": 6,
+    "columns": 8,
+    "exported_rows": 6,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "dim_account",
+    "source_rows": 47,
+    "columns": 8,
+    "exported_rows": 47,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "dim_client",
+    "source_rows": 28,
+    "columns": 14,
+    "exported_rows": 28,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "dim_vendor",
+    "source_rows": 30,
+    "columns": 7,
+    "exported_rows": 30,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "dim_team",
+    "source_rows": 16,
+    "columns": 7,
+    "exported_rows": 16,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "dim_sprint",
+    "source_rows": 38,
+    "columns": 6,
+    "exported_rows": 38,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "fact_payroll",
+    "source_rows": 7344,
+    "columns": 33,
+    "exported_rows": 7344,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "fact_attendance_monthly",
+    "source_rows": 7343,
+    "columns": 16,
+    "exported_rows": 7343,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "fact_leave",
+    "source_rows": 3441,
+    "columns": 14,
+    "exported_rows": 3441,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "fact_headcount_monthly",
+    "source_rows": 891,
+    "columns": 11,
+    "exported_rows": 891,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "fact_ledger",
+    "source_rows": 6784,
+    "columns": 13,
+    "exported_rows": 6784,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "fact_invoice",
+    "source_rows": 743,
+    "columns": 20,
+    "exported_rows": 743,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "fact_invoice_payment",
+    "source_rows": 709,
+    "columns": 9,
+    "exported_rows": 709,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "fact_expense",
+    "source_rows": 501,
+    "columns": 20,
+    "exported_rows": 501,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "fact_task",
+    "source_rows": 28868,
+    "columns": 16,
+    "exported_rows": 28868,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "fact_anomaly",
+    "source_rows": 405,
+    "columns": 13,
+    "exported_rows": 405,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "fact_attrition_risk",
+    "source_rows": 430,
+    "columns": 13,
+    "exported_rows": 430,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "fact_forecast",
+    "source_rows": 72,
+    "columns": 11,
+    "exported_rows": 72,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "budget_payroll_dept_month",
+    "source_rows": 198,
+    "columns": 3,
+    "exported_rows": 198,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "kpi_targets",
+    "source_rows": 180,
+    "columns": 6,
+    "exported_rows": 180,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "reconciliation_answer_key",
+    "source_rows": 18,
+    "columns": 12,
+    "exported_rows": 18,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "reference_summary_dept_month",
+    "source_rows": 198,
+    "columns": 19,
+    "exported_rows": 198,
+    "status": "EXTRACTED - validation pending"
+  },
+  {
+    "sheet": "dq_known_issues",
+    "source_rows": 11,
+    "columns": 7,
+    "exported_rows": 11,
+    "status": "EXTRACTED - validation pending"
+  }
+]
